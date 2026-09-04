@@ -1,116 +1,126 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-# 👋 Hey, I'm Abdurrahman Osama
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10251a,100:00ff88&height=220&section=header&text=Abdurrahman%20Osama&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Engineer%20%E2%80%A2%20Android%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Flutter&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
 
-### 🚀 Android Developer | Kotlin Multiplatform | Jetpack Compose
-
-<p>
-  Building modern, scalable and user-focused mobile applications.
-</p>
+<br>
 
 <a href="https://www.linkedin.com/in/abdelrahman-osama-mohamed/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:abdelrhamnosama287@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://wa.me/201287019667">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+&nbsp;&nbsp;
+<a href="https://abwa.me/201287019667">
+<img src="https://img.shields.io/badge/WhatsApp-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://abdocrowinho.github.io/my_portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Kotlin+Multiplatform+Developer;Building+Clean+%26+Scalable+Apps;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Android+%2F+Kotlin+Developer;Jetpack+Compose+%2F+Kotlin+Multiplatform;Flutter+%2F+Dart;Clean+Architecture+%2F+MVI+%2F+MVVM;Koin+%2F+Dagger+%2F+Firebase;Building+mobile+experiences+that+scale" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## About
 
-## 👨‍💻 About Me
+I'm a **Mobile Engineer** focused primarily on Android development with **Kotlin**, while also building cross-platform applications with **Kotlin Multiplatform** and **Flutter**.
 
-I'm an **Android Developer** passionate about building modern, reliable and scalable mobile applications.
+I care about more than making an app work — I care about how it is **structured, maintained, scaled, and experienced**.
 
-I mainly work with **Kotlin, Jetpack Compose and Kotlin Multiplatform**, while also having experience with traditional Android Views, Flutter and Dart.
-
-I care about writing clean, maintainable code and designing applications with solid architecture, good performance and a great user experience.
-
-- 📱 Focused on **Android Development**
-- 🚀 Working with **Kotlin & Jetpack Compose**
-- 🌍 Exploring **Kotlin Multiplatform**
-- 🧩 Interested in **Clean Architecture & scalable systems**
-- ⚡ Building applications with modern Android technologies
-- 🧠 Constantly improving my **Data Structures & Algorithms** skills
+My work usually sits around modern UI, scalable architecture, networking, real-time communication, local persistence, and clean engineering practices.
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+## Core Stack
 
-## 🛠️ Tech Stack
+### Android
 
-### 📱 Mobile Development
+`Kotlin` · `Jetpack Compose` · `XML Views`
 
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,android,jetpackcompose,flutter,dart" />
-</p>
+### Multiplatform
 
-### 💻 Languages
+`Kotlin Multiplatform` · `Flutter` · `Dart`
 
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart" />
-</p>
+### Architecture & Engineering
 
-### 🏗️ Architecture & Development
+`Clean Architecture` · `MVVM` · `MVI` · `SOLID` · `Design Patterns`
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-</p>
+### Dependency Injection
 
-**Architecture & Concepts**
+`Koin` · `Dagger`
 
-`MVVM` • `MVI` • `Clean Architecture` • `SOLID Principles`  
-`Design Patterns` • `Dependency Injection` • `Dagger`  
-`Coroutines` • `State Management`
+### Networking
 
-### 🌐 Networking & Backend
+`RESTful APIs` · `WebSockets`
 
-`RESTful APIs` • `WebSockets` • `Networking`
+### Backend & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase" />
-</p>
+`Firebase` · `Supabase` · `Local Database`
 
-### 💾 Databases & Storage
+### Computer Science
 
-`Local Databases` • `Firebase` • `Supabase`
-
-### 🧠 Computer Science
-
-`Data Structures` • `Algorithms` • `Problem Solving`
+`Data Structures` · `Algorithms`
 
 ---
 
-<!-- ======================= WHAT I BUILD ======================= -->
-
-## 🚀 What I Build
+## How I Build
 
 ```text
-📱 Modern Android Applications
-        ↓
-🧩 Clean & Scalable Architecture
-        ↓
-⚡ Kotlin + Jetpack Compose
-        ↓
-🌍 Kotlin Multiplatform
-        ↓
-🌐 REST APIs + WebSockets
-        ↓
-🔥 Firebase / Supabase
-        ↓
-✨ Smooth & User-Focused Experiences
+                         MOBILE APPLICATIONS
+                                  │
+                ┌─────────────────┼─────────────────┐
+                │                 │                 │
+             Android          KMP / Shared       Flutter
+                │                 │                 │
+             Kotlin            Kotlin             Dart
+                │                 │                 │
+        Compose / XML         Compose           Flutter UI
+                │                 │                 │
+                └─────────────────┼─────────────────┘
+                                  │
+                           APPLICATION LAYER
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+              Clean Architecture          Design Patterns
+                    │                           │
+                 MVVM / MVI                    SOLID
+                    │
+                    ▼
+              ┌───────────────┐
+              │    SERVICES   │
+              └───────┬───────┘
+                      │
+             ┌────────┼─────────┐
+             │        │         │
+            REST   WebSockets  Firebase
+                               / Supabase
+                      │
+                      ▼
+                 Local Database
+```
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+
+### `> Building things that feel as good as they are engineered_`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:10251a,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
